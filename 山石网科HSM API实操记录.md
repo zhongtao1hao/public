@@ -1,5 +1,6 @@
 ## 1.通过“配置下发工单”下发策略
 待添加策略：
+
   rule id 2
     action permit
     src-zone "trust"
